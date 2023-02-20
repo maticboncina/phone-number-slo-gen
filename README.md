@@ -1,6 +1,7 @@
 # Phone Number Generator - Tool
 
-This tool was made to satisfy a personal need to obtain a "nice" phone number. The tool generates phone numbers based on criteria provided allowing you to forward them to provider to check for availability. The tool follows slovenia format (area) (segment1) (segment2).
+This tool was made to satisfy a personal need to obtain a "nice" phone number. The tool generates phone numbers based on the criteria provided allowing you to forward them to the provider to check for availability. The tool follows the slovenia format (area) (segment1) (segment2).
+
 ## Usage
 
 1. Open numbers.js
