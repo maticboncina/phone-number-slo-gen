@@ -8,17 +8,17 @@ const readline = require('readline').createInterface({
   seg1       xyz        abc
   */
   
-  const seg1 = ['068']; // First segment of the phone numer is always one of these options
+  const seg1 = ['041']; // First segment of the phone numer is always one of these options
   
-// 068 888 868
+// 041 360 XXX
 
-  const x = [8];
-  const y = [8];
-  const z = [8];
+const x = [3, 6, 9];
+const y = [3, 6, 9];
+const z = [3, 6, 9];
   
-  const a = [6, 8];1
-  const b = [6, 8];
-  const c = [6, 8];
+  const a = [3];
+  const b = [3];
+  const c = [3];
   
   readline.question('How many phone numbers do you wish to generate: ', num => {
     for(let i = 0; i < num; i++) {
